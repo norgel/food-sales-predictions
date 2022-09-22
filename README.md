@@ -17,7 +17,7 @@ Tasks of this project are to:
 - Build a regression tree model
 - Recommend to the retailers which model is more suffiecient in providing the needed details to predict sales
 
-##Dataset Dictionary
+### **Dataset Dictionary**
 
 Item_Weight: - The weight of an item
 
@@ -34,3 +34,7 @@ Outlet_Establishment_Year: - The year a store or supermarket was opened.
 Outlet_Location_Type: - The classification of what store holds an item.
 
 Item_Outlet_Sales: - The sales of an item based on the location
+
+---
+
+![project1final_histograph](https://user-images.githubusercontent.com/107963606/191870234-252892d7-6c3e-4882-b53e-3e0f3857615e.png)
