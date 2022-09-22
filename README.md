@@ -18,6 +18,7 @@ Tasks of this project are to:
 - Recommend to the retailers which model is more suffiecient in providing the needed details to predict sales
 
 ##Dataset Dictionary
+
 Item_Weight: - The weight of an item
 
 Item_Fat_Content: - The amount of fat an item contains
