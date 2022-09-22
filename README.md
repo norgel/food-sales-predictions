@@ -38,3 +38,7 @@ Item_Outlet_Sales: - The sales of an item based on the location
 ---
 
 ![project1final_histograph](https://user-images.githubusercontent.com/107963606/191870234-252892d7-6c3e-4882-b53e-3e0f3857615e.png)
+
+The histogram that is shown above displays the Item Outlet Sales throughout all the stores. Looking at the histogram, you can see that the bigger sales were contributed by the lower count items. This can be interpreted that the lower count of a certain type of item, the higher the price will be. This will increase the demand for the product leading to an increase in price, then sales once that product is sold to the public.
+
+
