@@ -32,5 +32,16 @@ https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
 
 ![image](https://user-images.githubusercontent.com/107963606/197619088-5cc97236-059e-4672-bb4b-90f6296cddca.png)
 
-The visualization above shows that there is a larger 
+The visualization above shows that there is a larger amount of Low Fat products compared to Regular products. 
+
+
+
 ![image](https://user-images.githubusercontent.com/107963606/197619557-c9d94852-2127-4623-9199-1e21c6a07b2c.png)
+
+This visualization shows that there is a larger amount of sales for products that are cheaper.
+
+---
+
+## **Model Chosen**
+
+Between the two models that are chosen, I decided that the **DecisionTreeRegression** model would be a better model to use to predict the best sales. When evaluating the R2 and RMSE test scores compared to the **Linear Regression Model**, the DecisionTreeRegression model has a higher test score and a lower RMSE score.
