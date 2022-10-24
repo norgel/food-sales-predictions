@@ -6,3 +6,6 @@ https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
 ---
 ## **Assignment:**
 
+![image](https://user-images.githubusercontent.com/107963606/197619088-5cc97236-059e-4672-bb4b-90f6296cddca.png)
+
+![image](https://user-images.githubusercontent.com/107963606/197619557-c9d94852-2127-4623-9199-1e21c6a07b2c.png)
