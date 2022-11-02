@@ -3,6 +3,9 @@ Showing the predictions of rising and falling food sales by building two differe
 
 # Dataset Obtained From:
 https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
+
+# Contant Information:
+*njforgel@gmail.com*
 ---
 ## **Assignment:**
 - (1) Build a linear regression model to predict sales
@@ -45,3 +48,7 @@ This visualization shows that there is a larger amount of sales for products tha
 ## **Model Chosen**
 
 Between the two models that are chosen, I decided that the **DecisionTreeRegression** model would be a better model to use to predict the best sales. When evaluating the R2 and RMSE test scores compared to the **Linear Regression Model**, the DecisionTreeRegression model has a higher test score and a lower RMSE score.
+
+# Recommendation:
+
+I would recommend to my superiors to use a DecisionTreeRegression model for predicting the best sales throughout the stores. This is because the metrics given R2 and RMSE are much better. It has a higher R2 score, and a lower RMSE score. It provides a better balanced dataset overall.
